@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 3760 - A d1 25 x d2 40 x b 7 - NBR";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-18062013-073898";"";
+"STANDARD";"DIN 3760";"";
+"DESIGN";"Lip seal DIN 3760 - A25 x 40 x 7 - NBR";"";
+"TraceParts.InstanceId";"10-18062013-073898BQWQZ98M2KVXE5A6VG0IE4N0A";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Rotary shaft lip seals";"";
+"OMNICLASS23";"23.13.23.19";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.140/C21.140.T01/C21.140.T01.14/10-18062013-073898";"";

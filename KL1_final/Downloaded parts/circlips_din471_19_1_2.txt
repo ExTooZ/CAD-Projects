@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-02102006-127483";"";
+"REFERENCE";"DIN 471 - d1 19 - s 1,2";"";
+"STANDARD";"DIN 471";"";
+"TraceParts.PartVersion";"1.4.4";"";
+"TraceParts.InstanceId";"10-02102006-1274832BAERBDZK2GR4J0M03L0MT3E7";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartTitle";"Circlips (retaining rings) for shafts - Normal type";"";
+"DESIGN";"Circlips DIN 471 - 19 x 1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.13.23.11.13.25";"";

@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 5406 - MB 7";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Lockwasher DIN 5406 - MB 7";"";
+"TraceParts.PartNumber";"10-13062013-092142";"";
+"TraceParts.PartLanguage";"en";"";
+"STANDARD";"DIN 5406MB/MBL";"";
+"TraceParts.InstanceId";"10-13062013-0921425O4KBE0NLH4SGT00ED3U4KYE0";"";
+"TraceParts.PartTitle";"Lockwashers for use with locknuts";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-13062013-092142";"";

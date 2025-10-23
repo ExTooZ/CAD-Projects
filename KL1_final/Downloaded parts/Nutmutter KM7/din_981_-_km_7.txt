@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 981 - KM 7";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Locknut DIN 981 - KM 7";"";
+"TraceParts.PartNumber";"10-17062013-087652";"";
+"TraceParts.PartLanguage";"en";"";
+"STANDARD";"DIN 981";"";
+"TraceParts.InstanceId";"10-17062013-087652230YJBDORJKHC5GZW5J2E8G1N";"";
+"TraceParts.PartTitle";"Locknuts KM/KML/HMT";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-17062013-087652";"";

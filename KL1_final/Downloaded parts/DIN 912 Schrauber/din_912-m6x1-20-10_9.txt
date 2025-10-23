@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 912 - d M6 x p 1 - l 20 - 10.9";"";
+"MATERIAL";"Steel";"";
+"DESIGN";"Hexagon socket head screw DIN 912 - M6 x 1 - 20 - 10.9";"";
+"TraceParts.PartNumber";"10-11062001-154695";"";
+"STANDARD";"DIN 912";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
+"TraceParts.InstanceId";"10-11062001-1546953408Y0WDMK9G2UG03LFIR2NHN";"";
+"TraceParts.PartTitle";"Hexagon socket head screw";"";
+"NOTE";"Class: 10.9; grade: A";"";
+"TraceParts.PartVersion";"1.7.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
